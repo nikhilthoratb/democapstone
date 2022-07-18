@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Porkodi",
+      "lastName": "Venkatesh",
+      "username": "porkodi@gmail.com",
+      "password": "pass@123",
+      "gender": "female",
+      "dob": "09/21/2001",
+      "location": "delhi"
+    },
+    {
+      "firstName": "Nikhil",
+      "lastName": "Thorat",
+      "username": "nik2509",
+      "password": "nik2509",
+      "email": "nikthorat4@gmail.com",
+      "gender": "male",
+      "location": "Kerala",
+      "interests": [],
+      "id": 2
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "username": "",
+      "password": "",
+      "email": "",
+      "location": "Andhra Pradesh",
+      "id": 3
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "username": "",
+      "password": "",
+      "email": "",
+      "location": "Andhra Pradesh",
+      "id": 4
+    },
+    {
+      "firstName": "nds",
+      "lastName": "nsknb",
+      "username": "nik",
+      "password": "nnnn",
+      "email": "nik@gmail.com",
+      "gender": "male",
+      "birthday": "2022-07-26",
+      "id": 5
+    }
+  ]
+}

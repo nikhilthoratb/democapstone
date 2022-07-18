@@ -1,0 +1,45 @@
+button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  body{
+    background-color: #dfcfbe;
+    align-content: center;
+  }
+  html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+  input[type=text], select {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    margin-left: 50px;
+    width: 250px;
+    height: 2px;
+  } 
+  input[type=password], select {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 250px;
+    margin-left: 60px;
+    height: 2px;
+  }
+  input[type=email], select {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    margin-left: 90px;
+    width: 250px;
+    height: 2px;
+  }
+ 
